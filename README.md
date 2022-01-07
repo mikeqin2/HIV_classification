@@ -1,1 +1,2 @@
 # HIV_classification
+(ongoing) This github repo contains the notebook classify.ipynb for classifying the time series HIV rates by county in the US from year 2012 to 2021. The folder data contains the input data in js format.
